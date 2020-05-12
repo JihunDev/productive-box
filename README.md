@@ -48,4 +48,4 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 5. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
 
 PS.
-https://fernando.kr/develop/2020-05-02-github-gist-posting/
+[Github 프로필에 나의 Daliy 코딩 시간을 적용해보자!](https://fernando.kr/develop/2020-05-02-github-gist-posting/)
